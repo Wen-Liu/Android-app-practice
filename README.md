@@ -1,7 +1,7 @@
 # Android-app-practice
 week1 Java practice assignment <br>
 <br>
-week2 Android app practice assignment - mobile app UI of calculator <br>  
+week2 Android app practice assignment - mobile app UI of calculator <br>
 <br>
 week3 Android app practice assignment - complete the calculator function <br>
 <br>
